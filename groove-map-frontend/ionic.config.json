@@ -1,0 +1,7 @@
+{
+  "name": "groove-map-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
