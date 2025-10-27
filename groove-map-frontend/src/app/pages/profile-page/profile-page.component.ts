@@ -11,4 +11,6 @@ export class ProfilePageComponent  implements OnInit {
 
   ngOnInit() {}
 
+  public pageTitle: string = 'Perfil';
+
 }

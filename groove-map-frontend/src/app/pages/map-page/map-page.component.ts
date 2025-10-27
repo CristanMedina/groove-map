@@ -13,4 +13,6 @@ export class MapPageComponent  implements OnInit {
 
   ngOnInit() {}
 
+  public pageTitle: string = 'Mapa';
+
 }
